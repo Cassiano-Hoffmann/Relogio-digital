@@ -4,13 +4,12 @@ Um simples relógio digital desenvolvido utilizando HTML5, CSS3 e JavaScript.
 
 ## Demonstração
 
-
+![Relógio digital](https://github.com/Cassiano-Hoffmann/Relogio-digital/assets/117099774/b3b30c9b-2902-4534-a529-881c12b18924)
 
 ## Funcionalidades
 
 - Exibe a hora atual em formato digital.
-- Design responsivo para diferentes dispositivos.
-- [Adicione outras funcionalidades aqui]
+- Design sofisticado
 
 ## Tecnologias Utilizadas
 
@@ -20,9 +19,4 @@ Um simples relógio digital desenvolvido utilizando HTML5, CSS3 e JavaScript.
 
 ## Como Usar
 
-Forneça instruções claras sobre como instalar, configurar e executar o seu relógio digital.
 
-1. Faça o clone do repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
