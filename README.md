@@ -19,4 +19,4 @@ Um simples relógio digital desenvolvido utilizando HTML5, CSS3 e JavaScript.
 
 ## Como Usar
 
-
+https://github.com/Cassiano-Hoffmann/Relogio-digital.git
